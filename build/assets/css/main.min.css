@@ -489,6 +489,15 @@ div.alignToText {
   color: #ECB8A5;
   font-size: 10px; }
 
+.beforePage {
+  margin-left: 1em;
+  margin-top: 2em; }
+
+.btn {
+  margin-top: 12em;
+  margin-left: 35em;
+  background: #363636; }
+
 .flex-video {
   height: 0;
   margin-bottom: 0.88889rem;

@@ -1,3 +1,5 @@
+// Theme Changer JS
+
 let checkbox = document.querySelector('input[name=theme]');
 checkbox.addEventListener('change', function () {
  if (this.checked) {
